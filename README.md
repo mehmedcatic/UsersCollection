@@ -10,3 +10,9 @@ Check this link for more info: http://jsonplaceholder.typicode.com/
 
 The idea was to demonstrate usage of an API throughout the project. 
 We can also POST a new user locally with the data from inputs.
+
+
+Check "build" folder for js files, it contains:
+- httpLib.js -> Library designed for handling http requests
+- ui.js -> Library designed to handle UI of the app
+- app.js -> Library designed for handling main app functionality, such as event listeners, etc.
